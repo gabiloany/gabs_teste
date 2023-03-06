@@ -1,3 +1,9 @@
-Salvando daqui pra la
-Vou jogar as linhas de cod inicias do git
-Branch nova
+Códigos Git para utilização da ferramenta localmente ou via https:
+
+git init = Iniciar o git na pasta local;
+git add . = Adicionar arquivos locais no ambiente change do git;
+git status = Visualizar arquivos que precisam/foram salvos;
+git commit -a -m = Subir o arquivo local no git online junto com uma mensagem explicativa da ação;
+git remote add origin xxxxxxxx = Conectar com o repositório online;
+git branch -M main = Nomear main defalt;
+git push -u origin main = Subir o codigo local no repositório online.
